@@ -7,6 +7,7 @@ import Teachers from "./Teachers";
 import Courses from "./Courses";
 import NotFound from "./NotFound";
 
+
 const App = () => (
   <Router>
     <div className="container">
